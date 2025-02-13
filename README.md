@@ -1,6 +1,6 @@
 # How to create an Nginx website using your own domain
 
-This will be a walkthrough of how you can set up your own website (with your own domain) using AWS EC2 instance and NGINX.
+This will be a walkthrough of how you can set up a website (with your own domain) using AWS EC2 instance and Nginx.
 
 <br>
 
